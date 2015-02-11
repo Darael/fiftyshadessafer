@@ -63,3 +63,10 @@ h1 {
 #sitetitle1 {
   color: #C0C0C0;
 }
+
+.pagecontent {
+  width: 90%;
+  align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
