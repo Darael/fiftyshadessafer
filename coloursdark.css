@@ -28,7 +28,8 @@ body {
   color: #4d94be;
 }
 
-.here a {
+.here a:link,
+.here a:visited {
   color: white;
 }
 
