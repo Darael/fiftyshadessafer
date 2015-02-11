@@ -20,7 +20,7 @@ body {
 /* A nifty little hack to replace the page-head image with a modified version
   that actually works with the colour scheme */
 #banner {
-  background: url(/img/bannerlight.png);
+  background: url(img/bannerlight.png);
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
