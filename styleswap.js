@@ -4,10 +4,10 @@ function switchColours(){
     var curSheet =
             document.getElementById('palette').getAttribute('href');
     var newSheet;
-    if (curSheet == "coloursdark.css") {
-        newSheet = "colourslight.css";
+    if (curSheet == "/coloursdark.css") {
+        newSheet = "/colourslight.css";
     } else {
-        newSheet = "coloursdark.css";
+        newSheet = "/coloursdark.css";
     }
     document.getElementById('palette').setAttribute('href',newSheet);
 }

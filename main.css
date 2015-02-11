@@ -16,7 +16,7 @@ body {
 
 @font-face {
   font-family: fiftyShadesMock;
-  src: url(fonts/texgyreschola.otf);
+  src: url(/fonts/texgyreschola.otf);
 }
 
 div.header {
