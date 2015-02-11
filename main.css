@@ -43,12 +43,12 @@ div.header {
 #pagetitle {
   padding-top: 163px;
   margin-top: -50pt;
+  padding-left: 316px; /* Account for banner */
+  margin-left: 15px; /* and provide a margin */
 }
 
 #pagetitle h2 {
   font-size: 15pt;
-  padding-left: 316px; /* Account for banner */
-  margin-left: 15px; /* and provide a margin */
 }
 
 .clear {
