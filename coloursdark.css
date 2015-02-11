@@ -13,8 +13,26 @@ body {
 
 .nav li a {
   border-right: 1px solid #C0C0C0;
+}
+
+.nav li a:link {
   color: #C0C0C0;
 }
+
+.nav li a:visited {
+  color: #5D5D5C;
+}
+
+.nav li a:active,
+.nav li a:hover {
+  color: #4d94be;
+}
+
+.here a {
+  color: white;
+}
+
+
 
 #lightswitch:before {
   content: "Turn on the lights!";

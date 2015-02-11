@@ -12,10 +12,25 @@ body {
 }
 
 .nav li a {
-  border-right: 1px solid #3F3F3F;
+    border-right: 1px solid #3F3F3F;
+}
+
+.nav li a:link {
   color: #3F3F3F;
 }
 
+.nav li a:visited {
+  color: #A2A2A3;
+}
+
+.nav li a:active,
+.nav li a:hover {
+  color: #38779c;
+}
+
+.here a {
+  color: black;
+}
 
 /* A nifty little hack to replace the page-head image with a modified version
   that actually works with the colour scheme */
