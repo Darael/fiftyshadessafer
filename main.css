@@ -1,17 +1,3 @@
-body {
-  /* Background colours */
-  /* Safari 4-5, Chrome 1-9 */
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1F1E1E), to(#050505));
-  /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(top, #050505, #1F1E1E);
-  /* Firefox 3.6+ */
-  background: -moz-linear-gradient(top, #050505, #1F1E1E);
-  /* IE 10 */
-  background: -ms-linear-gradient(top, #050505, #1F1E1E);
-  /* Opera 11.10+ */
-  background: -o-linear-gradient(top, #050505, #1F1E1E);
-
-  color: #C0C0C0;
 html {
   height: 100%;
 }
@@ -77,8 +63,6 @@ h1 {
   font-size: 30pt;
 }
 
-#sitetitle0 {
-  color: white;
 .pagecontent {
   position: absolute;
   top: 165px;
@@ -90,8 +74,6 @@ h1 {
   overflow: auto;
 }
 
-#sitetitle1 {
-  color: #C0C0C0;
 /* TODO: content w/ custom scrollbar */
 
 .footer {

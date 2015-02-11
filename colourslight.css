@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(to bottom, #FAFAFA, #E0E1E1);
+  color: #3F3F3F;
+}
+
+#sitetitle0 {
+  color: black;
+}
+
+#sitetitle1 {
+  color: #3F3F3F;
+}
+
+.nav li a {
+  border-right: 1px solid #3F3F3F;
+  color: #3F3F3F;
+}
+
+
+/* A nifty little hack to replace the page-head image with a modified version
+  that actually works with the colour scheme */
+#banner {
+  background: url(img/bannerlight.png);
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+/*and the content for the light-switch whatsit*/
+#lightswitch:before {
+  content: "Turn off the lights!";
+}

@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(to bottom, #050505, #1F1E1E);
+  color: #C0C0C0;
+}
+
+#sitetitle0 {
+  color: white;
+}
+
+#sitetitle1 {
+  color: #C0C0C0;
+}
+
+.nav li a {
+  border-right: 1px solid #C0C0C0;
+  color: #C0C0C0;
+}
+
+#lightswitch:before {
+  content: "Turn on the lights!";
+}
