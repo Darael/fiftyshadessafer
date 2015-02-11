@@ -101,6 +101,10 @@ h1 {
   text-decoration: none;
 }
 
+.here a:after {
+  content: "(you are here!)"
+}
+
 .nav li.lastnav a {
   border-right: none
 }
