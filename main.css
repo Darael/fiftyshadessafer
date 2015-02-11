@@ -23,4 +23,11 @@ body {
 h1 {
   font-family: fiftyShadesMock;
 }
+
+#sitetitle0 {
+  color: white;
+}
+
+#sitetitle1 {
+  color: #C0C0C0;
 }
