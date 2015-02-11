@@ -102,7 +102,7 @@ h1 {
 }
 
 .here a:after {
-  content: "(you are here!)"
+  content: " (you are here!)"
 }
 
 .nav li.lastnav a {
