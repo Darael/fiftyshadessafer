@@ -1,4 +1,5 @@
 body {
+  /* Background colours */
   /* Safari 4-5, Chrome 1-9 */
   background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1F1E1E), to(#050505));
   /* Safari 5.1, Chrome 10+ */
@@ -9,4 +10,6 @@ body {
   background: -ms-linear-gradient(top, #050505, #1F1E1E);
   /* Opera 11.10+ */
   background: -o-linear-gradient(top, #050505, #1F1E1E);
+
+  color: #C0C0C0;
 }
