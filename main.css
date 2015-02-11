@@ -41,7 +41,7 @@ div.header {
 }
 
 #pagetitle {
-  float: left
+  float: left;
   padding-left: 30px;
   overflow: hidden;
   padding-top: 163px;
