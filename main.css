@@ -41,15 +41,13 @@ div.header {
 }
 
 #pagetitle {
-  float: left;
-  padding-left: 30px;
-  overflow: hidden;
   padding-top: 163px;
   margin-top: -50pt;
 }
 
-h2 {
+#pagetitle h2 {
   font-size: 15pt;
+  padding-left: 30px;
 }
 
 .clear {
