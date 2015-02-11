@@ -37,7 +37,8 @@ div.header {
 }
 
 #pagetitle {
-  float: left;
+  padding-left: 10px;
+  overflow: hidden;
   padding-top: 163px;
   margin-top: -50pt;
 }
