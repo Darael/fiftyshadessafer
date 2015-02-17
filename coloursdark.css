@@ -11,25 +11,25 @@ body {
   color: #C0C0C0;
 }
 
-.nav li a {
+nav li a {
   border-right: 1px solid #C0C0C0;
 }
 
-.nav li a:link {
+nav li a:link {
   color: #C0C0C0;
 }
 
-.nav li a:visited {
+nav li a:visited {
   color: #5D5D5C;
 }
 
-.nav .here a:link,
-.nav .here a:visited {
+nav .here a:link,
+nav .here a:visited {
   color: white;
 }
 
-.nav li a:active,
-.nav li a:hover {
+nav li a:active,
+nav li a:hover {
   color: #4d94be;
 }
 

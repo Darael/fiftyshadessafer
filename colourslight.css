@@ -11,25 +11,25 @@ body {
   color: #3F3F3F;
 }
 
-.nav li a {
+nav li a {
     border-right: 1px solid #3F3F3F;
 }
 
-.nav li a:link {
+nav li a:link {
   color: #3F3F3F;
 }
 
-.nav li a:visited {
+nav li a:visited {
   color: #A2A2A3;
 }
 
-.nav li a:active,
-.nav li a:hover {
+nav li a:active,
+nav li a:hover {
   color: #38779c;
 }
 
-.nav .here a:link,
-.nav .here a:visited {
+nav .here a:link,
+nav .here a:visited {
   color: black;
 }
 
