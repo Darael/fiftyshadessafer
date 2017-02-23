@@ -121,3 +121,26 @@ nav li.lastnav a {
   font-size: 8pt;
   height: 8pt;
 }
+
+.externallinks dt {
+    float:left;
+    clear: left;
+    display: list-item;
+    margin-left:20px;
+}
+.externallinks dd {
+    font-style: italic;
+    margin-left: 0.5em;
+    float:left;
+/*    padding-top:2px;*/
+}
+
+.externallinks dd:not(.emptydd):before {
+    content: " - "
+}
+
+article div {
+    float: top;
+    clear: left;
+    padding-top: 0.5em;
+}
